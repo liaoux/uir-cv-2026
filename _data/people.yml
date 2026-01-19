@@ -5,10 +5,10 @@ instructors:
   #- name: Minerva McGonagall
   #  profile_pic: /_images/pp/mcgonagall.jpg
 
-teaching_assistants:
-  - name: Only Ilias This time
-    profile_pic: /_images/pp/ilias-logo.png
-    webpage: https://www.liaou.xyz/
+# teaching_assistants:
+  # - name: Only Ilias This time
+    # profile_pic: /_images/pp/ilias-logo.png
+    # webpage: https://www.liaou.xyz/
 
 #  - name: Hermione Granger
 #    profile_pic: /_images/pp/granger.jpg
