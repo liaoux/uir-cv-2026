@@ -49,15 +49,15 @@ layout: default
 
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>Teaching Assistants</h2>
                 {% for ta in site.data.people.teaching_assistants %}
+                <h2>Teaching Assistants</h2>
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
                     {% if ta.webpage %}
                     <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
                     {% else %}
                     <p>{{ta.name}}</p>
-                    {% endif %}
+                {% endif %}
                 </div>
                 {% endfor %}
             </div>
