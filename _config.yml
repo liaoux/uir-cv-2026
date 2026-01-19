@@ -4,7 +4,7 @@ course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na
 course_semester: "Spring 2026"
 
 baseurl: "/uir-cv-2026" # the subpath of your site, e.g. /blog/
-url: "http://jetliqs.github.io/" # the base hostname & protocol for your site
+url: "http://liaoux.github.io/" # the base hostname & protocol for your site
 
 schoolname: "International University of Rabat"
 schoolurl: "https://uir.ac.ma"
