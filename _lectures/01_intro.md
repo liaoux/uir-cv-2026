@@ -10,7 +10,7 @@ links:
     #- url: /static_files/lectures/code.zip
     #  name: codes
     - url: /static_files/lectures/01_intro.pdf
-      name: slides
+      name: pdf
 ---
 **Suggested Readings:**
 - [Readings](https://szeliski.org/Book/): Szeliski 1.1
