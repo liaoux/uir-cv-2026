@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-02-02T10:30:00+1:00
+date: 2026-02-03T8:30:00+1:00
 title: Course Introduction
 tldr: “What is Computer Vision, its Applications, and Course Logistics”
 thumbnail: /static_files/lectures/01_intro.png
