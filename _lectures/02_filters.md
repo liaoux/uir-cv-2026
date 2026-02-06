@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-02-01T10:30:00+1:00 
+date: 2026-02-03T8:30:00+1:00
 title: Linear Image filtering
 tldr: “LSIS systems, 1D-2D Convolution and Linear image filters”
 thumbnail: /static_files/lectures/02_linear_filtering.png
