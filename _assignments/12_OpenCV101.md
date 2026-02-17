@@ -3,7 +3,7 @@ type: assignment
 date: 2026-02-17T16:14:00+1:00
 title: 'Lab 1 Part 2: Introduction to Computer Vision with OpenCV'
 pdf: /static_files/assignments/OpenCV_101.pdf
-attachment: /static_files/assignments/OpenCV_101.ipynb
+attachment: /static_files/assignments/OpenCV_101.zip
 # solutions: /static_files/labs/lab1.pdf
 due_event: 
     type: due
