@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2026-02-09T4:14:00+1:00
-title: 'Lab1: 1D Continuous Convolution'
+title: 'Lab1 Part 1: 1D Continuous Convolution'
 pdf: /static_files/labs/lab1.pdf
 # attachment: /static_files/labs/lab1.pdf
 solutions: /static_files/labs/lab1_solution.pdf
