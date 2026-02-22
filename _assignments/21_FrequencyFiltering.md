@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2026-02-17T16:14:00+1:00
+date: 2026-02-22T16:14:00+1:00
 title: 'Lab 2: Frequency Domain Filtering & Hybrid Images'
 pdf: /static_files/labs/lab2_frequency_filtering.pdf
 attachment: /static_files/labs/lab2_frequency_filtering.zip
