@@ -20,6 +20,11 @@ title: page.title
       {% if page.attachment %}
       [<a href="{{ page.attachment | prepend: site.baseurl }}">attachment</a>]
       {% endif %}
+      {% if page.attachments %}
+        {% for item in page.attachments %}
+      [<a href="{{ item.file | prepend: site.baseurl }}">{{ item.name }}</a>]
+        {% endfor %}
+      {% endif %}
       {% if page.solutions %}
       [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
       {% endif %}
