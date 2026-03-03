@@ -1,6 +1,6 @@
 ---
 layout: assignments
-title: Assignments
+title: Labs & Assignments
 permalink: /assignments/
 ---
-You can find the labs here. Also check out each page for any additional info.
+You can find the labs and assignments here. Also check out each page for any additional info.
