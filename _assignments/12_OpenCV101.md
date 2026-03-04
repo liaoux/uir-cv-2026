@@ -8,5 +8,5 @@ attachment: /static_files/assignments/OpenCV_101.zip
 due_event: 
     type: due
     date: 2026-02-22T22:59:00+1:00
-    description: 'Lab #1 Part 2 due'
+    description: 'Assignment #1 deadline'
 ---

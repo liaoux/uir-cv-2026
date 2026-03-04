@@ -8,5 +8,5 @@ solutions: /static_files/labs/lab1_solution.pdf
 due_event: 
     type: due
     date: 2026-02-17T23:59:00+1:00
-    description: 'Lab #1 due'
+    description: 'Lab #1 deadline'
 ---
