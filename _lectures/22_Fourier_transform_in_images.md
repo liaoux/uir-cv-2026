@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-02-17T8:30:00+1:00
-title: Image Filtering in the Frequency domain
+title: Fourier Transform
 tldr: “The Convolution Theorem, Image Filtering in the Frequency domain, and Hybrid images”
 thumbnail: /static_files/thumbnails/22_Fourier_transform_in_images.png
 links: 
